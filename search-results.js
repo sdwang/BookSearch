@@ -2,7 +2,6 @@
 
 var React = require('react-native');
 var BookDetail = require('./book-detail');
-
 var {
   StyleSheet,
   View,
